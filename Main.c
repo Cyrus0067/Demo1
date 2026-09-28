@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("hello world");
+    printf("my first repo");
     return 0;
 }
